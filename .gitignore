@@ -1,6 +1,4 @@
-
 *.pyc
-*.txt
 /lib
 /Include
 /scripts
